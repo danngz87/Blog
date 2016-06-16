@@ -5,7 +5,7 @@ h1{
 body {
   background-color: #ffb399;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'Poiret One', cursive;
   color:#727272;
   font-weight:400;
 }
